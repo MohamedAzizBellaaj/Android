@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pizza-Delivery</string>
+    <string name="a_logo_of_a_pizza">A logo of a pizza</string>
+    <string name="pizza_delivery">Pizza Delivery</string>
+    <string name="a_motorcycle_on_a_delivery">A motorcycle on a delivery</string>
+    <string name="name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="address">Address</string>
+</resources>

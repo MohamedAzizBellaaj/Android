@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="EditTextGreen" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorControlActivated">@color/neonGreen</item>
+        <item name="colorControlHighlight">@color/neonGreen</item>
+    </style>
+</resources>
